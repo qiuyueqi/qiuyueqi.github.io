@@ -1,5 +1,5 @@
 ---
-title: "Spatiotemporal encoding MRI in a portable low-field system <br> <span style='color:#000080'>(nominated as YIA)</span>"
+title: "Spatiotemporal encoding MRI in a portable low-field system <br> <span style='color:#d11818f7'>(Finalist for the 2025 Young Investigator Award)</span>"
 authors: "Yueqi Qiu, Ke Dai, Sijie Zhong, Suen Chen, Changyue Wang, Hao Chen, Lucio Frydman, Zhiyong Zhang"
 venue: "Magnetic Resonance in Medicine"
 year: 2024

@@ -45,12 +45,12 @@
 }
 
 .cv-profile-item a {
-  color: #2a7ae2;
-  text-decoration: none;
+  color: #092a4d;
+  text-decoration: underline;
 }
 
 .cv-profile-item a:hover {
-  text-decoration: underline;
+  text-decoration: none;
 }
 
 /* Section Styles */
@@ -84,7 +84,7 @@
 }
 
 .cv-item-title {
-  font-weight: bold;
+  font-weight: normal;
   font-size: 1.1rem;
 }
 
