@@ -9,7 +9,7 @@ pages: "709-717"
 doi: "10.1002/mrm.30300"
 paperurl: "https://doi.org/10.1002/mrm.30300"
 
-citation: '<strong>Qiu, Y.</strong>, Chen, S., Solomon, E., et al. (2025). &quot;A new approach for multislice spatiotemporal encoding MRI in a portable low‐field system.&quot; <i>Magnetic Resonance in Medicine</i>. 93(2), 709-717. doi: <a href="https://doi.org/10.1002/mrm.30300">10.1002/mrm.30300</a>'
+citation: '<strong>Qiu, Y.</strong>, Chen, S., Solomon, E., et al. (2025). &quot;A new approach for multislice spatiotemporal encoding MRI in a portable low‐field system.&quot; <i>Magnetic Resonance in Medicine</i>. 93(2), 709-717. doi: <a href="https://doi.org/10.1002/mrm.30300"><span style="color:#2f7f93; text-decoration: underline;">10.1002/mrm.30300</span></a>'
 
 ---
 

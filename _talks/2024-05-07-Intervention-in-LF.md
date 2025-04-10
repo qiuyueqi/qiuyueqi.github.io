@@ -5,7 +5,9 @@ type: "Digital Poster"
 permalink: /talks/2024-05-07-Intervention-in-LF
 venue: "Interventional Hardware & Technical Developments"
 date: 2024-05-07
-location: "Singapore.  <a href='https://cds.ismrm.org/protected/24MPresentations/abstracts/2720.html'>View Online</a>"
+location: "Singapore. <br>
+    <strong>Qiu Y.</strong>, Xu C., Wei X., Wang C., Chen H., & Zhang Z., Interventional Navigation At APortable MRI System: A Pilot Study, the ISMRM Annual Meeting, 04-09 May, Singapore, 2024 <br>
+    <a href='https://cds.ismrm.org/protected/24MPresentations/abstracts/2720.html'><span style='color:#2f7f93; text-decoration: underline;'>https://cds.ismrm.org/protected/24MPresentations/abstracts/2720.html</span></a>"
 ---
 
 **Synopsis** <br> 

@@ -10,7 +10,7 @@ doi: "10.1002/mrm.30104"
 paperurl: "https://onlinelibrary.wiley.com/doi/pdf/10.1002/mrm.30104"
 
 
-citation: '<strong>Qiu, Y.</strong>, Dai, K., Zhong, S., Chen, S., Wang, C., Chen, H., Frydman, L., & Zhang, Z. (2024). &quot;Spatiotemporal encoding MRI in a portable low-field system.&quot; <i>Magnetic Resonance in Medicine</i>. 92(3), 1011-1021. doi: <a href="https://doi.org/10.1002/mrm.30104">10.1002/mrm.30104</a>'
+citation: '<strong>Qiu, Y.</strong>, Dai, K., Zhong, S., Chen, S., Wang, C., Chen, H., Frydman, L., & Zhang, Z. (2024). &quot;Spatiotemporal encoding MRI in a portable low-field system.&quot; <i>Magnetic Resonance in Medicine</i>. 92(3), 1011-1021. doi: <a href="https://doi.org/10.1002/mrm.30104"><span style="color:#2f7f93; text-decoration: underline;">10.1002/mrm.30104</span></a>'
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 permalink: /
 # title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
-title: "About me"
+title: "Yueqi Qiu"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,7 +9,30 @@ redirect_from:
 ---
 
 <!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! -->
- This is Yueqi's home on the web!
+
+ **Ph.D. Candidate** at Biomedical Enginerring, Shanghai Jiao Tong University, 2022-2027(expected)
+ * Advisor: Dr. Zhiyong Zhang
+ * Research Group Website: <a href="https://zzmri.sjtu.edu.cn/" style="color:#2f7f93; text-decoration: underline;">https://zzmri.sjtu.edu.cn/</a>
+
+CONTACT  INFORMATION
+======
+
+**Affiliations**:  <br>
+  - School of Biomedical Engineering, Shanghai Jiao Tong University, P. R. China<br>
+  - National Engineering Research Center of Advanced Magnetic Resonance Technologies for Diagnosis and Therapy (NERC-AMRT), Shanghai Jiao Tong University, P. R. China<br>
+
+**Cell**: +86-18116274648<br>
+
+**Email**: saraqiu@sjtu.edu.cn<br>
+
+**Mailing Address**: Dorm X83, 800 Dongchuan Road, Minhang, Shanghai, P. R. China<br>
+
+RESEARCH  INTERESTS
+======
+  - Ultrafast spatially encoded MRI techniques and their applications.<br>
+  - New MRI sequence and pulse design in portable low-field MRI systems.<br>
+  - Function magnetic resonance imaging in low-field MRI.<br>
+
 
 <!-- A data-driven personal website
 ======
