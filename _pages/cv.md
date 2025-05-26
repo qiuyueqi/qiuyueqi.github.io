@@ -61,7 +61,7 @@ Conference Proceedings
   
 Scholarship and Awards
 ======
-* Finalist for the 2025 Young Investigator Award
+* Prince-Meaney Translational Science Award Winner for the 2025 Young Investigator Award
 * 2023-2024 Taozepu Scholarship
 * Shanghai Jiao Tong University outstanding graduate of 2022 (2022.06)
 * 2020 National College Students Mathematical Contest in Modeling, Shanghai area, first prize (2020)
