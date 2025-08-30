@@ -1,5 +1,5 @@
 ---
-title: "Multi-Shot Multi-Echo xSPEN technique for permanent gradient portable low-field MRI systems <br> <span style='color:#5e4330'>Oral Presentation  </span> <span style='color:#d11818f7'>(2025 ISMRM Magna Cum Laude Merit Award) </span>"
+title: "Multi-Shot Multi-Echo xSPEN technique for permanent gradient portable low-field MRI systems <br> <span style='color:#5e4330'>Oral Presentation  </span> <span style='color:#ff69b4'>(2025 ISMRM Magna Cum Laude Merit Award) </span>"
 collection: talks
 type: "Oral"
 permalink: /talks/2024-05-14-xSPEN-in-LF

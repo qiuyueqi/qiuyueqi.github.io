@@ -1,5 +1,5 @@
 ---
-title: "Spatiotemporal Encoding MRI in a Portable Low-Field System <br> <span style='color:#5e4330'>Oral Presentation  </span> <span style='color:#ff69b4'>(2025 ISMRM Young Investigator Award Winner) </span>"
+title: "Spatiotemporal Encoding MRI in a Portable Low-Field System <br> <span style='color:#5e4330'>Oral Presentation  </span> <span style='color:#d11818f7'>(2025 ISMRM Young Investigator Award Winner) </span>"
 collection: talks
 type: "Oral"
 permalink: /talks/2025-05-12-SPEN-in-LF-YIAoral
