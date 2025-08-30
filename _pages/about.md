@@ -21,17 +21,17 @@ CONTACT  INFORMATION
   - School of Biomedical Engineering, Shanghai Jiao Tong University, P. R. China<br>
   - National Engineering Research Center of Advanced Magnetic Resonance Technologies for Diagnosis and Therapy (NERC-AMRT), Shanghai Jiao Tong University, P. R. China<br>
 
-**Cell**: +86-18116274648<br>
+<!--**Cell**: +86-18116274648<br>-->
 
 **Email**: saraqiu@sjtu.edu.cn<br>
 
-**Mailing Address**: Dorm X83, 800 Dongchuan Road, Minhang, Shanghai, P. R. China<br>
+**Mailing Address**: Translational Medicine Building, 800 Dongchuan Road, Minhang, Shanghai, P. R. China<br>
 
 RESEARCH  INTERESTS
 ======
   - Ultrafast spatially encoded MRI techniques and their applications.<br>
   - New MRI sequence and pulse design in portable low-field MRI systems.<br>
-  - Function magnetic resonance imaging in low-field MRI.<br>
+  - Clinical translation of portable low-field technology/applications.<br>
 
 
 <!-- A data-driven personal website

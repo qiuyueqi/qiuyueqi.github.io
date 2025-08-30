@@ -16,6 +16,25 @@ Education
   * Research Group Website: <a href="https://zzmri.sjtu.edu.cn/" style="color:#2f7f93; text-decoration: underline;">https://zzmri.sjtu.edu.cn/</a>
 * **B.S.** Biomedical Enginerring, Shanghai Jiao Tong University, 2018-2022
 
+CONTACT  INFORMATION
+======
+
+**Affiliations**:  <br>
+  - School of Biomedical Engineering, Shanghai Jiao Tong University, P. R. China<br>
+  - National Engineering Research Center of Advanced Magnetic Resonance Technologies for Diagnosis and Therapy (NERC-AMRT), Shanghai Jiao Tong University, P. R. China<br>
+
+<!--**Cell**: +86-18116274648<br>-->
+
+**Email**: saraqiu@sjtu.edu.cn<br>
+
+**Mailing Address**:  Translational Medicine Building, 800 Dongchuan Road, Minhang, Shanghai, P. R. China<br>
+
+RESEARCH  INTERESTS
+======
+  - Ultrafast spatially encoded MRI techniques and their applications.<br>
+  - New MRI sequence and pulse design in portable low-field MRI systems.<br>
+  - Function magnetic resonance imaging in low-field MRI.<br>
+
 <!-- Work experience
 ======
 * Spring 2024: Academic Pages Collaborator
