@@ -10,6 +10,8 @@ redirect_from:
 
 <!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! -->
 
+<strong><span style="color:#d11818;">I am currently seeking postdoctoral opportunities. Please feel free to contact me by email if you know of a suitable position.</span></strong>
+
  **Ph.D. Candidate** at Biomedical Enginerring, Shanghai Jiao Tong University, 2022-2027(expected)
  * Advisor: Dr. Zhiyong Zhang
  * Research Group Website: <a href="https://zzmri.sjtu.edu.cn/" style="color:#2f7f93; text-decoration: underline;">https://zzmri.sjtu.edu.cn/</a>

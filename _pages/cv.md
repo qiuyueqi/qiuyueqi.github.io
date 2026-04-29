@@ -11,6 +11,7 @@ redirect_from:
 
 Education
 ======
+* <strong><span style="color:#d11818;">I am currently seeking postdoctoral opportunities. Please feel free to contact me by email if you know of a suitable position.</span></strong>
 * **Ph.D. Candidate**  Biomedical Enginerring, Shanghai Jiao Tong University, 2022-2027(expected)
   * Advisor: Dr. Zhiyong Zhang
   * Research Group Website: <a href="https://zzmri.sjtu.edu.cn/" style="color:#2f7f93; text-decoration: underline;">https://zzmri.sjtu.edu.cn/</a>
@@ -80,13 +81,22 @@ Conference Proceedings
   
 Scholarship and Awards
 ======
+* 2025 Doctoral National Scholarship of China (awarded to less than 1% of PhD students)
+* Gold Award, China International College Students' Innovation Competition (2025)
 * Prince-Meaney Translational Science Award Winner for the ISMRM 2025 Young Investigator Award
 * 2023-2024 Taozepu Scholarship
 * Shanghai Jiao Tong University outstanding graduate of 2022 (2022.06)
 * 2020 National College Students Mathematical Contest in Modeling, Shanghai area, first prize (2020)
 
-Research  Experience
+Research Experience
 ======
+* 2026.1-2026.7<br> <strong>Clinical imaging evaluation of brain tumor patients on portable MRI</strong>
+  - Optimize imaging protocols and acquisition parameters for scanning brain tumor patients on portable low-field MRI systems.
+  - Compare the appearance of the same contrast across different brain tumor types on clinical scanners and portable scanners to assess the clinical utility of low-field MRI in brain tumor evaluation.
+
+* 2025.3-2025.12<br> <strong>End-to-end multi-band multi-shot SPEN DWI design for portable low-field MRI systems</strong>
+  - Designed the full self-navigated multi-shot SPEN DWI workflow, including sequence design and reconstruction.
+  - Designed a suitable multiband module for SPEN DWI to improve SNR efficiency.
 * 2024.6-2025.3<br> <strong> Multi-Shot Multi-Echo xSPEN technique for permanent gradient portable low-field MRI systems</strong>
   -	Designed a new MS-ME xSPEN technique, to improve SNR and contrast diversity.
   - Applied it to portable MRI and systems with the constant gradient to resist the great field inhomogeneity and gradient nonlinearity.
