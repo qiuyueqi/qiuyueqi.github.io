@@ -5,7 +5,7 @@ type: "Digital Poster"
 permalink: /talks/2026-05-11-SPEN-DWI-in-LF
 venue: "Low field systems and applications"
 date: 2026-05-11
-location: "Vancouver, Canada. <br>
+location: "Cape Town, South Africa. <br>
     <strong>Qiu Y.</strong>, Lee P. K., Chen S., Dai K., Wang C., & Zhang Z., Self-Navigated Multi-Shot and Multiband SPEN DWI for Portable Low-Field MRI, the ISMRM Annual Meeting, 11 May, 2026 <br>
     <a href='https://echo.ismrm.org/abstracts/view/a9ec32d2-a90f-44de-9abd-79c64e7ef732'><span style='color:#2f7f93; text-decoration: underline;'>https://echo.ismrm.org/abstracts/view/a9ec32d2-a90f-44de-9abd-79c64e7ef732</span></a>"
 

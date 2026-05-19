@@ -32,9 +32,9 @@ CONTACT  INFORMATION
 
 RESEARCH  INTERESTS
 ======
-  - Ultrafast spatially encoded MRI techniques and their applications.<br>
-  - New MRI sequence and pulse design in portable low-field MRI systems.<br>
-  - Function magnetic resonance imaging in low-field MRI.<br>
+  - Ultrafast spatially encoded MRI sequence development and applications.<br>
+  - Pulse sequence design, optimization, and calibration for portable low-field MRI systems.<br>
+  - Clinical translation of novel diffusion MRI sequences, reconstruction methods, and applications.<br>
 
 <!-- Work experience
 ======

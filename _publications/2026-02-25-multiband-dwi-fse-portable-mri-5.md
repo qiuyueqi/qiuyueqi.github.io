@@ -17,13 +17,13 @@ citation: 'Lee, P. K., <strong>Qiu, Y.</strong>, Chen, S., et al. (2026). &quot;
 
 **Abstract**
 **Purpose**
-To improve the SNR efficiency of Fast Spin Echo (FSE) using RF-encoded multiband imaging and to develop techniques that correct artifacts from non-Carr–Purcell–Meiboom–Gill (CPMG) magnetization arising from system imperfections.
+To develop a robust diffusion weighted (DW) acquisition with clinically feasible scan times for portable MRI systems.
 
 **Methods**
-Optimal refocusing pulse 0-pi band phase modulations that satisfy the CPMG condition were calculated for different multiband factors. Fast recovery was used to enhance T2 contrast. Quadratic phase refocusing pulses, phase encode and slice select gradient reshaping, and zeroth-order phase calibrations were tested to reduce residual non-CPMG magnetization. Image contrast of T2-weighted and T1-weighted imaging and SNR improvements were evaluated in phantom and in vivo experiments on an in-house portable 110 mT system.
+A linear reconstruction model including: tailored RF-encoding schemes, motion-induced phases, and systematic phase errors was developed for slab diffusion weighted fast spin echo (FSE) data acquired with quadratic phase increment. Systematic phases imparted by diffusion gradients were obtained using a calibration phantom. Trace-weighted DW-FSE was compared to DW-EPI in vivo on a portable 110 mT H-based system. A high-NEX DW-FSE acquisition was performed in healthy volunteers followed by Monte Carlo retrospective undersampling to evaluate expected image quality and mean diffusivity variation in a DWI protocol with clinically feasible scan times.
 
 **Results**
-The peak B1 of multiband refocusing pulses using the obtained optimal phase modulations varies closely with the expected increase of $\sqrt{N_{bands}}$ Modulations satisfying the CPMG phase condition provide similar peak B1 reductions to previously proposed subband modulation schemes. Quadratic phase increment reduced shading from residual non-CPMG magnetization, and bipolar phase encoding reduced residual ghosting. Zeroth-order RF phase calibrations on the excitation and tipup, and slice select reshaping that minimized residual phase on 2D maps calculated from even and odd echo images improved contrast with long T2 species. RF-encoded multiband FSE improved SNR by a factor close to the theoretical expected improvement of $\sqrt{N_{bands}}$.
+CPMG calibration and polynomials fitted to systematic phase errors enabled accurate estimation of motion-induced phases. Accounting of different phase sources reduced ghosting artifacts and improved SNR efficiency by enabling RF-encoding. RF-encoded slab DW-FSE obtained in vivo trace-weighted images without distortion artifacts and with voxel sizes 5× smaller than DW-EPI. The retrospectively undersampled acquisition showed that 12 cm slice coverage with voxel size 2.5 × 2.5 × 5 mm3 could be achieved in 12 min scan time. The mean diffusivity standard deviation between Monte Carlo trials was 0.2 × 10^−3 mm2/s.
 
 **Conclusion**
-RF-encoded multiband imaging is a viable approach for improving SNR efficiency on low-field portable systems.
+Diffusion weighted FSE is a robust, distortionless approach for high SNR efficiency DWI on portable MRI systems. Multiband quadratic phase increment DW-FSE leverages the low SAR and higher peak B1 provided by low field strengths and is less dependent on performant hardware compared to DW-EPI.
