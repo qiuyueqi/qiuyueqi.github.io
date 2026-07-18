@@ -12,10 +12,10 @@ redirect_from:
 Education
 ======
 * <strong><span style="color:#d11818;">I am currently seeking postdoctoral opportunities. Please feel free to contact me by email if you know of a suitable position.</span></strong>
-* **Ph.D. Candidate**  Biomedical Enginerring, Shanghai Jiao Tong University, 2022-2027(expected)
+* **Ph.D. Candidate**  Biomedical Enginerring, Shanghai Jiao Tong University, 09/2022-12/2026(expected)
   * Advisor: Dr. Zhiyong Zhang
   * Research Group Website: <a href="https://zzmri.sjtu.edu.cn/" style="color:#2f7f93; text-decoration: underline;">https://zzmri.sjtu.edu.cn/</a>
-* **B.S.** Biomedical Enginerring, Shanghai Jiao Tong University, 2018-2022
+* **B.S.** Biomedical Enginerring, Shanghai Jiao Tong University, 09/2018-06/2022
 
 CONTACT  INFORMATION
 ======
